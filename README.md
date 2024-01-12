@@ -1,4 +1,4 @@
-# client-registration
+# Client Registration
 
 ## Project setup
 ```
